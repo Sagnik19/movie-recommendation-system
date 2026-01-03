@@ -1,0 +1,15 @@
+# virtual env
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# datasets (CRITICAL)
+data/*.csv
+
+# IDE
+.idea/
+.DS_Store
+.env
+
